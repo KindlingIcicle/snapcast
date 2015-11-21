@@ -32,7 +32,7 @@ angular.module('whiteboard', ['ui.router'])
     console.log($rootScope.app.pen);
     if (option === 'eraser') {
       console.log("The user is using the eraser.");
-      $rootScope.app.pen.lineWidth = 50;
+      $rootScope.app.pen.lineWidth = 400;
       $rootScope.app.pen.strokeStyle = '#fff';
     } else {
       console.log("The user is using the pen.");
