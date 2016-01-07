@@ -3,14 +3,11 @@
 
 ## Table of Contents
 
-1. [Documentation](#Documentation)
-2. [Usage](#Usage)
-3. [Requirements](#Requirements)
-4. [Development](#development)
+1. [Usage](#Usage)
+2. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
     2. [Packaging Documentation](#packaging-documentation)
-5. [Team](#team)
-6. [Contributing](#contributing)
+3. [Team](#team)
 
 ## Usage
 
